@@ -1,0 +1,31 @@
+{
+  "name": "puppeteer-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BestDingSheng/puppeteer-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BestDingSheng/puppeteer-learn/issues"
+  },
+  "homepage": "https://github.com/BestDingSheng/puppeteer-learn#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "puppeteer": "^1.20.0",
+    "request": "^2.88.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "baidu-aip-sdk": "^2.4.4"
+  }
+}
