@@ -23,7 +23,7 @@
     "express": "^4.17.1",
     "puppeteer": "^1.20.0",
     "request": "^2.88.0",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.4.0"
   },
   "devDependencies": {
     "baidu-aip-sdk": "^2.4.4"
